@@ -15,7 +15,7 @@ Added by me:
 - Pod Controller
 - Service Controller 
 ## Under development
-Ingress Controller
+Integrated X-Loadbalancer (nginx/...) with Ingress Controller
 - will watch add/update/delete ingress object and print the ingress PATH + targeted Servcie + targeted service port
 my goal is to create load balancer like so that I can deploy service and I can access it from localhost
 example:-
